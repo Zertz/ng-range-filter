@@ -1,0 +1,46 @@
+{
+  "name": "ng-range-filter",
+  "version": "0.1.0",
+  "description": "AngularJS filter to generate a range of numeric values",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "node ./node_modules/karma/bin/karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zertz/ng-range-filter.git"
+  },
+  "keywords": [
+    "angular",
+    "filter",
+    "range",
+    "repeat"
+  ],
+  "author": "Pier-Luc Gendreau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zertz/ng-range-filter/issues"
+  },
+  "homepage": "https://github.com/Zertz/ng-range-filter#readme",
+  "devDependencies": {
+    "angular": "^1.2.0",
+    "angular-mocks": "^1.2.0",
+    "jasmine-core": "^2.3.0",
+    "karma": "^0.13.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.0",
+    "standard": "^5.0.0"
+  },
+  "standard": {
+    "globals": [
+      "angular",
+      "before",
+      "beforeEach",
+      "describe",
+      "expect",
+      "it",
+      "inject"
+    ]
+  }
+}
