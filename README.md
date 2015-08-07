@@ -1,4 +1,4 @@
-# ng-range-filter [![Circle CI](https://circleci.com/gh/Zertz/ng-range-filter/tree/master.svg?style=svg&circle-token=f9f9b6da8c09af27f2cca4d943a013ba2a267c8d)](https://circleci.com/gh/Zertz/ng-range-filter/tree/master) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![npm version](https://badge.fury.io/js/ng-range-filter.svg)](http://badge.fury.io/js/ng-range-filter) [![Bower version](https://badge.fury.io/bo/ng-range-filter.svg)](http://badge.fury.io/bo/ng-range-filter)
+# ng-range-filter [![Circle CI](https://circleci.com/gh/Zertz/ng-range-filter/tree/master.svg?style=svg&circle-token=f9f9b6da8c09af27f2cca4d943a013ba2a267c8d)](https://circleci.com/gh/Zertz/ng-range-filter/tree/master) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![npm version](https://badge.fury.io/js/ng-range-filter.svg)](http://badge.fury.io/js/ng-range-filter)
 
 AngularJS filter to generate a range of numeric values
 
