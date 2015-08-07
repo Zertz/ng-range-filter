@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "pretest": "standard",
-    "test": "node ./node_modules/karma/bin/karma start test/karma.conf.js"
+    "test": "node ./node_modules/karma/bin/karma start test/karma.conf.js --single-run",
+    "develop": "node ./node_modules/karma/bin/karma start test/karma.conf.js"
   },
   "repository": {
     "type": "git",
