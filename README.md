@@ -18,6 +18,28 @@ bower i ng-range-filter --save
 
 ## Usage
 
+### browserify
+
+```javascript
+require('ng-range-filter')
+```
+
+### Classic
+
+```html
+<script src="node_modules/ng-range-filter/src/ngRangeFilter.js"></script>
+```
+
+### Angular
+
+```javascript
+angular.module('app', [
+  'ngRangeFilter'
+])
+```
+
+## Examples
+
 Generate values from 0 to 5
 
 ```html
